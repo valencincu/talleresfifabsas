@@ -204,9 +204,10 @@ nav ul li:hover, nav ul li.active {
   height:270px;
   padding:0px;
   position:absolute;
-  top:-200px;
+  top:-135px;
   left:50%;
   margin-left:-135px;
+  margin-top: -200px;
 }
 
 .sectiondivider img {
