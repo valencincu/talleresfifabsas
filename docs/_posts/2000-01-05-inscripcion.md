@@ -1,6 +1,6 @@
 ---
-title: "Inscripción"
-bg: "#26547C"
+title: "¡Inscribite!"
+bg: "#222222"
 color: white
 fa-icon: check-square-o
 style: center
