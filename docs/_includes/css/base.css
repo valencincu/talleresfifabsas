@@ -53,7 +53,7 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: #000;
+		background-image: "img/bkg.png";
 		font: 14px/21px "Roboto", "HelveticaNeue-Light", Arial, sans-serif;
 		color: #fff;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
