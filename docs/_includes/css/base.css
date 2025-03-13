@@ -54,7 +54,6 @@
 ================================================== */
 body {
 		background-image: url(img/bkg6.png);
-		filter: brightness(50%);
 		background-size:cover;
 		background-attachment: fixed;
 		font: 14px/21px "Roboto", "HelveticaNeue-Light", Arial, sans-serif;
