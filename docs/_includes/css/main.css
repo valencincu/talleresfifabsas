@@ -176,7 +176,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 .section:first-of-type {
-    padding-top: 140px;
+    padding-top: 80px;
 }
 
 
@@ -207,7 +207,6 @@ nav ul li:hover, nav ul li.active {
   top:-135px;
   left:50%;
   margin-left:-135px;
-  margin-top: 60px;
 }
 
 .sectiondivider img {
