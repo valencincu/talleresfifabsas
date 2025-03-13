@@ -202,12 +202,12 @@ nav ul li:hover, nav ul li.active {
 .sectiondivider {
   width:270px;
   height:270px;
-  padding:0px;
+  padding:15px;
   position:absolute;
   top:-135px;
   left:50%;
   margin-left:-135px;
-  margin-top: -200px;
+  margin-top: 60px;
 }
 
 .sectiondivider img {
