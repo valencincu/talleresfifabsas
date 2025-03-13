@@ -52,8 +52,8 @@
 
 /* #Basic Styles
 ================================================== */
-	body {
-		background-image: url(bkg.png);
+body {
+		background-image: url(docs/css/bkg.png);
 		background-attachment: fixed;
 		font: 14px/21px "Roboto", "HelveticaNeue-Light", Arial, sans-serif;
 		color: #fff;
