@@ -359,9 +359,10 @@ div.scroll-container {
 	background-color: #333;
 	overflow: auto;
 	white-space: nowrap;
-	padding: 10px;
+	padding: 10px 0px;
+  width=99%;
   }
   
   div.scroll-container img {
-	padding: 10px;
+	padding: 10px 0px;
   }
