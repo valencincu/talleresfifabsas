@@ -356,6 +356,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 div.scroll-container {
+  display:block;
 	background-color: #333;
 	overflow: auto;
 	white-space: nowrap;
@@ -365,6 +366,6 @@ div.scroll-container {
   }
   
   div.scroll-container img {
-	padding: 10px 0px;
+	padding: 10px;
   height: 180px;
   }
