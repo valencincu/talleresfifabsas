@@ -1,6 +1,6 @@
 ---
 title: "¡Inscribite a un taller!"
-bg: "#222222"
+bg: "#111111"
 color: white
 fa-icon: check-square-o
 style: center
