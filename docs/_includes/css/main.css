@@ -170,7 +170,7 @@ nav ul li:hover, nav ul li.active {
   display:block;
   width:100%;
   min-height:0px;
-  margin-top: 20px;
+  margin-bottom: 40px;
   padding: 120px;
 }
 
