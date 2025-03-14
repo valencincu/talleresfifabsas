@@ -361,10 +361,10 @@ div.scroll-container {
 	white-space: nowrap;
 	padding: 10px 0px;
   width:99%;
-  height: 80px;
+  height: 200px;
   }
   
   div.scroll-container img {
 	padding: 10px 0px;
-  height: 80px;
+  height: 180px;
   }
