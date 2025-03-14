@@ -169,14 +169,14 @@ nav ul li:hover, nav ul li.active {
   position:relative;
   display:block;
   width:100%;
-  min-height:300px;
-  padding:210px 0;
+  min-height:0px;
+  padding: 30px 30px;
   background:url(img/bgnoise.png);
   /* generated noise from noisetexturegenerator.com */
 }
 
 .section:first-of-type {
-    padding-top: 50px;
+    padding-top: 140px;
 }
 
 
