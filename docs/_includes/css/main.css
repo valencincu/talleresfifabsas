@@ -357,6 +357,7 @@ nav ul li:hover, nav ul li.active {
 
 div.scroll-container {
   display:block;
+  margin-top: 40px;
 	background-color: #333;
 	overflow: auto;
 	white-space: nowrap;
