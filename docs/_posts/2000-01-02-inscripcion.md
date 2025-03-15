@@ -10,7 +10,7 @@ style: center
 
 <!-- #### Ya está cerrada la inscripción para el taller. Te esperamos la siguiente edición!! -->
 
-## ¡Está abierta la inscripción al próximo **taller de Python 🐍**
+## Está abierta la inscripción al **taller de Python 🐍**
 
 El curso apunta a cubrir las herramientas necesarias para encarar las materias de física (particularmente los laboratorios), pero está abierto a todes. Vamos a empezar desde cero y terminar usando algunas herramientas para analizar datos. 
 
