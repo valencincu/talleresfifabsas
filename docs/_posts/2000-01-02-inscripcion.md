@@ -1,12 +1,12 @@
 ---
-title: "¡Inscribite a un taller!"
+title: "¡Inscribite!"
 bg: "#111111"
 color: white
 fa-icon: check-square-o
 style: center
 ---
 
-# ¡Inscribite a un taller!
+# ¡Inscribite!
 
 <!-- #### Ya está cerrada la inscripción para el taller. Te esperamos la siguiente edición!! -->
 
